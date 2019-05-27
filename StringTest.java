@@ -31,7 +31,7 @@ public class StringTest {
 			System.out.println("is object");
 		}
 		
-		
+		System.out.println("Hello jenkins");
 		
 	}
 
